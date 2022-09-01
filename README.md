@@ -1,27 +1,26 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 # Readme
 # Author : Davi Méaille
 ## Date created : 01/08/2022
 ## Date last modification : 25/08/2022
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
 ##				    PURPOSE OF THIS PROJECT
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 With this project, we want to estimate the correlation between electoral vote and farm productivity 
 in the USA. More precisely, we estimate the relation between a proxy for farm productivity, 
 average value per acre for farmlands, and different variables of votes that are presented 
 below. This aims at understanding how vote can be a determinant of farm performance. 
 
 ##		  		     INPUT DATA
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 We use agricultural data in the USA  and electoral data from https://www.icpsr.umich.edu/web/pages/. 
 We use data over the period 1880 to 1980, for conveniences of the data that we have. 
 
 
 ##					         CODES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 → 1 - Agricultural Data - Preparation.R : 
 It builds our dataset for agricultural performance. It loads all the datafile in which 
 we have found variables of interest and select the variables using "table for data.txt". 
@@ -74,9 +73,9 @@ The files have to be run in the order given by their own numbers.
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ##					SUMMARY STATISTICS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 ==============================================================================================
